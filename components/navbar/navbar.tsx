@@ -4,7 +4,7 @@ import MainNav from "./mainnav";
 import StoreSwitcher from "../storeSwitcher";
 import { redirect } from "next/navigation";
 import prismadb from "@/lib/prismadb";
-import { ModeToggle } from "../ui/ModeToggle";
+import  {ModeToggle}  from "@/components/ui/modeToggle";
 
 
 
