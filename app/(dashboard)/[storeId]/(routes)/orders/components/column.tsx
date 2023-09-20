@@ -2,7 +2,6 @@
 
 import { ColumnDef } from "@tanstack/react-table";
 
-import { CellAction } from "./cellActions";
 
 export type OrderColumn = {
   id: string;
